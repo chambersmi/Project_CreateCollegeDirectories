@@ -1,0 +1,3 @@
+This was created for myself. If anyone cared to use it, you could just modify the code for your own needs.
+Every (new) semester at college, I would create a directory for my new class, and within it manually create Module 1 - 8. Sure, this could've been done with
+a Powershell script but since I am wanting to create my own projects in C#, I figured this would be a nice place to start.
